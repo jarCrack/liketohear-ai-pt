@@ -3,12 +3,12 @@
 **Authors: Jörn Malich (PRAGMALAB GmbH)**
 
 
-liketohear-ai ist ein Prototyp, der im Zuge des Hack4Ear Hackathons, organisiert vom Fraunhofer IDMT entstand. Es handelt sich hierbei um einen ersten Entwurf zur automatischen Selbstanpassung von Hörgeräten. Hierfür lernt das Gerät vom Feedback des Nutzers und macht Vorschläge für unterschiedliche Soundsituationen.
+liketohear-ai is a prototype that was created in the course of the Hack4Ear Hackathon, organized by Fraunhofer IDMT. It is a first draft for the automatic self-fitting of hearing aids. The device learns from the user's feedback and makes suggestions for different sound situations.
 
-Funktionsweise
+How it works
 
-Zur Anpassung des Höhrgefühls verwendet der Nutzer die neue liketohear-Technologie, mit der er bequem per Handy-App Parameter wie Verstärkung und Klangfarbe anpassen kann. 
+To adjust the listening experience, the user uses the new liketohear technology, with which he can conveniently adjust parameters such as gain and timbre using the mobile phone app.
 
-Eine Machine Learning Modell lernt aus diesem Feedback und gibt dem Nutzer im laufende der Zeit immer passendere Vorschläge, in dem es aus seinen Präferenzen zu entsprechenden Situationen lernt.
+A machine learning model learns from this feedback and gives the user more and more suitable suggestions over time by learning from his preferences for corresponding situations.
 
 
